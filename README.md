@@ -1,2 +1,2 @@
 My first readme
-good programmer
+Programing is not easy
