@@ -1,2 +1,1 @@
-My first readme
-Programing is not easy
+My first readme updated
